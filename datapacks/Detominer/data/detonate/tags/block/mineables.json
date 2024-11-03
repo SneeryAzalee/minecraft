@@ -1,0 +1,18 @@
+{
+    "values": 
+    [
+        "minecraft:stone",
+        "minecraft:andesite",
+        "minecraft:granite",
+        "minecraft:diorite",
+        "minecraft:deepslate",
+        "minecraft:tuff",
+        "minecraft:netherrack",
+        "minecraft:blackstone",
+        "minecraft:crimson_nylium",
+        "minecraft:warped_nylium",
+        "minecraft:basalt",
+        "minecraft:end_stone",
+        "minecraft:obsidian"
+    ]
+}
