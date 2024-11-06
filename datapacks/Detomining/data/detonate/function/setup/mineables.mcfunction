@@ -42,3 +42,24 @@ scoreboard objectives add .detonate.mineables.coal_ore minecraft.mined:minecraft
 
 # Deepslate Coal Ore
 scoreboard objectives add .detonate.mineables.deepslate_coal_ore minecraft.mined:minecraft.deepslate_coal_ore
+
+# Iron Ore
+scoreboard objectives add .detonate.mineables.iron_ore minecraft.mined:minecraft.iron_ore
+
+# Deepslate Iron Ore
+scoreboard objectives add .detonate.mineables.deepslate_iron_ore minecraft.mined:minecraft.deepslate_iron_ore
+
+# Copper Ore
+scoreboard objectives add .detonate.mineables.copper_ore minecraft.mined:minecraft.copper_ore
+
+# Deepslate Copper Ore
+scoreboard objectives add .detonate.mineables.deepslate_copper_ore minecraft.mined:minecraft.deepslate_copper_ore
+
+# Gold Ore
+scoreboard objectives add .detonate.mineables.gold_ore minecraft.mined:minecraft.gold_ore
+
+# Deepslate Gold Ore
+scoreboard objectives add .detonate.mineables.deepslate_gold_ore minecraft.mined:minecraft.deepslate_gold_ore
+
+# Redstone Ore
+scoreboard objectives add .detonate.mineables.redstone_ore minecraft.mined:minecraft.redstone_ore

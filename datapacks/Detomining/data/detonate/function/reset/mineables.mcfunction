@@ -42,3 +42,24 @@ scoreboard objectives remove .detonate.mineables.coal_ore
 
 # Deepslate Coal Ore
 scoreboard objectives remove .detonate.mineables.deepslate_coal_ore
+
+# Iron Ore
+scoreboard objectives remove .detonate.mineables.iron_ore
+
+# Deepslate Iron Ore
+scoreboard objectives remove .detonate.mineables.deepslate_iron_ore
+
+# Copper Ore
+scoreboard objectives remove .detonate.mineables.copper_ore
+
+# Deepslate Copper Ore
+scoreboard objectives remove .detonate.mineables.deepslate_copper_ore
+
+# Gold Ore
+scoreboard objectives remove .detonate.mineables.gold_ore
+
+# Deepslate Gold Ore
+scoreboard objectives remove .detonate.mineables.deepslate_gold_ore
+
+# Redstone Ore
+scoreboard objectives remove .detonate.mineables.redstone_ore
