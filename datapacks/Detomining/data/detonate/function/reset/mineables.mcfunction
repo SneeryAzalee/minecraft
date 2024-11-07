@@ -63,3 +63,12 @@ scoreboard objectives remove .detonate.mineables.deepslate_gold_ore
 
 # Redstone Ore
 scoreboard objectives remove .detonate.mineables.redstone_ore
+
+# Deepslate Redstone Ore
+scoreboard objectives remove .detonate.mineables.deepslate_redstone_ore
+
+# Emerald Ore
+scoreboard objectives remove .detonate.mineables.emerald_ore
+
+# Deepslate Emerald Ore
+scoreboard objectives remove .detonate.mineables.deepslate_emerald_ore

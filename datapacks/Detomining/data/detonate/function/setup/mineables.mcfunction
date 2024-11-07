@@ -63,3 +63,12 @@ scoreboard objectives add .detonate.mineables.deepslate_gold_ore minecraft.mined
 
 # Redstone Ore
 scoreboard objectives add .detonate.mineables.redstone_ore minecraft.mined:minecraft.redstone_ore
+
+# Deepslate Redstone Ore
+scoreboard objectives add .detonate.mineables.deepslate_redstone_ore minecraft.mined:minecraft.deepslate_redstone_ore
+
+# Emerald Ore
+scoreboard objectives add .detonate.mineables.emerald_ore minecraft.mined:minecraft.emerald_ore
+
+# Deepslate Emerald Ore
+scoreboard objectives add .detonate.mineables.deepslate_emerald_ore minecraft.mined:minecraft.deepslate_emerald_ore

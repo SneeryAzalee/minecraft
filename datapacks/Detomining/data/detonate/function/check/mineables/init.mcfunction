@@ -86,6 +86,18 @@
 
     function detonate:check/mineables/redstone_ore
 
+# Deepslate Redstone Ore
+
+    function detonate:check/mineables/deepslate_redstone_ore
+
+# Emerald Ore
+
+    function detonate:check/mineables/emerald_ore
+
+# Deepslate Emerald Ore
+
+    function detonate:check/mineables/deepslate_emerald_ore
+
 
 
 
