@@ -72,3 +72,39 @@ scoreboard objectives add .detonate.mineables.emerald_ore minecraft.mined:minecr
 
 # Deepslate Emerald Ore
 scoreboard objectives add .detonate.mineables.deepslate_emerald_ore minecraft.mined:minecraft.deepslate_emerald_ore
+
+# Lapis Ore
+scoreboard objectives add .detonate.mineables.lapis_ore minecraft.mined:minecraft.lapis_ore
+
+# Deepslate Lapis Ore
+scoreboard objectives add .detonate.mineables.deepslate_lapis_ore minecraft.mined:minecraft.deepslate_lapis_ore
+
+# Diamond Ore
+scoreboard objectives add .detonate.mineables.diamond_ore minecraft.mined:minecraft.diamond_ore
+
+# Deepslate Diamond Ore
+scoreboard objectives add .detonate.mineables.deepslate_diamond_ore minecraft.mined:minecraft.deepslate_diamond_ore
+
+# Nether Gold Ore
+scoreboard objectives add .detonate.mineables.nether_gold_ore minecraft.mined:minecraft.nether_gold_ore
+
+# Nether Quartz Ore
+scoreboard objectives add .detonate.mineables.nether_quartz_ore minecraft.mined:minecraft.nether_quartz_ore
+
+# Sandstone
+scoreboard objectives add .detonate.mineables.sandstone minecraft.mined:minecraft.sandstone
+
+# Red Sandstone
+scoreboard objectives add .detonate.mineables.red_sandstone minecraft.mined:minecraft.red_sandstone
+
+# Dripstone Block
+scoreboard objectives add .detonate.mineables.dripstone_block minecraft.mined:minecraft.dripstone_block
+
+# Raw Iron Block
+scoreboard objectives add .detonate.mineables.raw_iron_block minecraft.mined:minecraft.raw_iron_block
+
+# Raw Gold Block
+scoreboard objectives add .detonate.mineables.raw_gold_block minecraft.mined:minecraft.raw_gold_block
+
+# Raw Copper Block
+scoreboard objectives add .detonate.mineables.raw_copper_block minecraft.mined:minecraft.raw_copper_block

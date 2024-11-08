@@ -72,3 +72,39 @@ scoreboard objectives remove .detonate.mineables.emerald_ore
 
 # Deepslate Emerald Ore
 scoreboard objectives remove .detonate.mineables.deepslate_emerald_ore
+
+# Lapis Ore
+scoreboard objectives remove .detonate.mineables.lapis_ore
+
+# Deepslate Lapis Ore
+scoreboard objectives remove .detonate.mineables.deepslate_lapis_ore
+
+# Diamond Ore
+scoreboard objectives remove .detonate.mineables.diamond_ore
+
+# Deepslate Diamond Ore
+scoreboard objectives remove .detonate.mineables.deepslate_diamond_ore
+
+# Nether Gold Ore
+scoreboard objectives remove .detonate.mineables.nether_gold_ore
+
+# Nether Quartz Ore
+scoreboard objectives remove .detonate.mineables.nether_quartz_ore
+
+# Sandstone
+scoreboard objectives remove .detonate.mineables.sandstone
+
+# Red Sandstone
+scoreboard objectives remove .detonate.mineables.red_sandstone
+
+# Dripstone Block
+scoreboard objectives remove .detonate.mineables.dripstone_block
+
+# Raw Iron Block
+scoreboard objectives remove .detonate.mineables.raw_iron_block
+
+# Raw Gold Block
+scoreboard objectives remove .detonate.mineables.raw_gold_block
+
+# Raw Copper Block
+scoreboard objectives remove .detonate.mineables.raw_copper_block

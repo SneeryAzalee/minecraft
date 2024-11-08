@@ -98,6 +98,54 @@
 
     function detonate:check/mineables/deepslate_emerald_ore
 
+# Lapis Ore
+
+    function detonate:check/mineables/lapis_ore
+
+# Deepslate Lapis Ore
+
+    function detonate:check/mineables/deepslate_lapis_ore
+
+# Diamond Ore
+
+    function detonate:check/mineables/diamond_ore
+
+# Deepslate Diamond Ore
+
+    function detonate:check/mineables/deepslate_diamond_ore
+
+# Nether Gold Ore
+
+    function detonate:check/mineables/nether_gold_ore
+
+# Nether Quartz Ore
+
+    function detonate:check/mineables/nether_quartz_ore
+
+# Sandstone
+
+    function detonate:check/mineables/sandstone
+
+# Red Sandstone
+
+    function detonate:check/mineables/red_sandstone
+
+# Dripstone Block
+
+    function detonate:check/mineables/dripstone_block
+
+# Raw Iron Block
+
+    function detonate:check/mineables/raw_iron_block
+
+# Raw Gold Block
+
+    function detonate:check/mineables/raw_gold_block
+
+# Raw Copper Block
+
+    function detonate:check/mineables/raw_copper_block
+
 
 
 
