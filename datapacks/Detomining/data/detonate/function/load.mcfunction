@@ -1,7 +1,10 @@
 # Reset
 
-    # Mineables    
-    function detonate:reset/mineables
+    # Mineables Pickaxes
+    function detonate:reset/mineables/pickaxes
+
+    # Mineables Shovels
+    function detonate:reset/mineables/shovels
 
     # Others
     function detonate:reset/others
@@ -9,8 +12,11 @@
 
 # Setup
 
-    # Mineables
-    function detonate:setup/mineables
+    # Mineables Pickaxes
+    function detonate:setup/mineables/pickaxes
+
+    # Mineables Shovels
+    function detonate:setup/mineables/shovels
 
     # Others
     function detonate:setup/others

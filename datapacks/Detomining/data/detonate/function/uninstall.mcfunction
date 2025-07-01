@@ -1,7 +1,10 @@
 # Uninstall
 
-    # Mineables
-    function detonate:reset/mineables
+    # Mineables Pickaxes
+    function detonate:reset/mineables/pickaxes
+
+    # Mineables Shovels
+    function detonate:reset/mineables/shovels
 
     # Others
     function detonate:reset/others

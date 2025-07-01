@@ -1,22 +1,50 @@
 {
-  "description": {
-    "text": "Detonate",
-    "color": "#ff0070"
-  },
-  "supported_items": "#minecraft:pickaxes",
-  "primary_items": "#minecraft:pickaxes",
-  "weight": 1,
-  "max_level": 1,
-  "min_cost": {
-    "base": 10,
-    "per_level_above_first": 0
-  },
-  "max_cost": {
-    "base": 30,
-    "per_level_above_first": 0
-  },
-  "anvil_cost": 10,
-  "slots": [
-    "mainhand"
-  ]
+    "description": {
+        "text": "Detonate",
+        "color": "#ff0070"
+    },
+    "supported_items": [
+        "wooden_pickaxe",
+        "stone_pickaxe",
+        "golden_pickaxe",
+        "iron_pickaxe",
+        "diamond_pickaxe",
+        "netherite_pickaxe",
+        
+        "wooden_shovel",
+        "stone_shovel",
+        "golden_shovel",
+        "iron_shovel",
+        "diamond_shovel",
+        "netherite_shovel"
+    ],
+    "primary_items": [
+        "wooden_pickaxe",
+        "stone_pickaxe",
+        "golden_pickaxe",
+        "iron_pickaxe",
+        "diamond_pickaxe",
+        "netherite_pickaxe",
+        
+        "wooden_shovel",
+        "stone_shovel",
+        "golden_shovel",
+        "iron_shovel",
+        "diamond_shovel",
+        "netherite_shovel"
+    ],
+    "weight": 1,
+    "max_level": 1,
+    "min_cost": {
+        "base": 10,
+        "per_level_above_first": 0
+    },
+    "max_cost": {
+        "base": 30,
+        "per_level_above_first": 0
+    },
+        "anvil_cost": 10,
+    "slots": [
+        "mainhand"
+    ]
 }
