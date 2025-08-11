@@ -1,0 +1,321 @@
+[
+    {
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "predicates": {
+                                    "minecraft:enchantments": [
+                                        {
+                                            "enchantments": "minecraft:unbreaking",
+                                            "levels": {
+                                                "min": 1,
+                                                "max": 255
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.5
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 1
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.333
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 2
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.25
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 3
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.2
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 4
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.166
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 5
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.142
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 6
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.125
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 7
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.111
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 8
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },{
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.1
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 9
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },{
+        "function": "minecraft:set_damage",
+        "damage": -0.008,
+        "add": true,
+        "conditions": [
+            {
+                "condition": "minecraft:random_chance",
+                "chance": 0.09
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "predicates": {
+                                "minecraft:enchantments": [
+                                    {
+                                        "enchantments": "minecraft:unbreaking",
+                                        "levels": 10
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]
