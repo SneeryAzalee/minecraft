@@ -3,36 +3,7 @@
         "text": "Detonate",
         "color": "#ff0070"
     },
-    "supported_items": [
-        "wooden_pickaxe",
-        "stone_pickaxe",
-        "golden_pickaxe",
-        "iron_pickaxe",
-        "diamond_pickaxe",
-        "netherite_pickaxe",
-        
-        "wooden_shovel",
-        "stone_shovel",
-        "golden_shovel",
-        "iron_shovel",
-        "diamond_shovel",
-        "netherite_shovel"
-    ],
-    "primary_items": [
-        "wooden_pickaxe",
-        "stone_pickaxe",
-        "golden_pickaxe",
-        "iron_pickaxe",
-        "diamond_pickaxe",
-        "netherite_pickaxe",
-        
-        "wooden_shovel",
-        "stone_shovel",
-        "golden_shovel",
-        "iron_shovel",
-        "diamond_shovel",
-        "netherite_shovel"
-    ],
+    "supported_items": "#detonate:enchantables/supported_tools",
     "weight": 1,
     "max_level": 1,
     "min_cost": {

@@ -108,3 +108,24 @@ scoreboard objectives remove .detonate.mineables.pickaxes.raw_gold_block
 
 # Raw Copper Block
 scoreboard objectives remove .detonate.mineables.pickaxes.raw_copper_block
+
+# Terracotta
+scoreboard objectives remove .detonate.mineables.pickaxes.terracotta
+
+# Red Terracotta
+scoreboard objectives remove .detonate.mineables.pickaxes.red_terracotta
+
+# Orange Terracotta
+scoreboard objectives remove .detonate.mineables.pickaxes.orange_terracotta
+
+# Yellow Terracotta
+scoreboard objectives remove .detonate.mineables.pickaxes.yellow_terracotta
+
+# Brown Terracotta
+scoreboard objectives remove .detonate.mineables.pickaxes.brown_terracotta
+
+# White Terracotta
+scoreboard objectives remove .detonate.mineables.pickaxes.white_terracotta
+
+# Light Gray Terracotta
+scoreboard objectives remove .detonate.mineables.pickaxes.light_gray_terracotta

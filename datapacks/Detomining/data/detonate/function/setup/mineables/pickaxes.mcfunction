@@ -108,3 +108,24 @@ scoreboard objectives add .detonate.mineables.pickaxes.raw_gold_block minecraft.
 
 # Raw Copper Block
 scoreboard objectives add .detonate.mineables.pickaxes.raw_copper_block minecraft.mined:minecraft.raw_copper_block
+
+# Terracotta
+scoreboard objectives add .detonate.mineables.pickaxes.terracotta minecraft.mined:minecraft.terracotta
+
+# Red Terracotta
+scoreboard objectives add .detonate.mineables.pickaxes.red_terracotta minecraft.mined:minecraft.red_terracotta
+
+# Orange Terracotta
+scoreboard objectives add .detonate.mineables.pickaxes.orange_terracotta minecraft.mined:minecraft.orange_terracotta
+
+# Yellow Terracotta
+scoreboard objectives add .detonate.mineables.pickaxes.yellow_terracotta minecraft.mined:minecraft.yellow_terracotta
+
+# Brown Terracotta
+scoreboard objectives add .detonate.mineables.pickaxes.brown_terracotta minecraft.mined:minecraft.brown_terracotta
+
+# White Terracotta
+scoreboard objectives add .detonate.mineables.pickaxes.white_terracotta minecraft.mined:minecraft.white_terracotta
+
+# Light Gray Terracotta
+scoreboard objectives add .detonate.mineables.pickaxes.light_gray_terracotta minecraft.mined:minecraft.light_gray_terracotta

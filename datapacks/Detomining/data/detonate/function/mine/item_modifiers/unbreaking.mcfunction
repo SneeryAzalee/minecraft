@@ -8,13 +8,17 @@
 
         execute if items entity @s weapon.mainhand #detonate:tools/stone_tools run item modify entity @s weapon.mainhand detonate:enchantments/unbreaking/stone_tools
 
-    # Iron tools
+    # Copper tools
 
-        execute if items entity @s weapon.mainhand #detonate:tools/iron_tools run item modify entity @s weapon.mainhand detonate:enchantments/unbreaking/iron_tools
+        execute if items entity @s weapon.mainhand #detonate:tools/copper_tools run item modify entity @s weapon.mainhand detonate:enchantments/unbreaking/copper_tools
 
     # Golden tools
 
         execute if items entity @s weapon.mainhand #detonate:tools/golden_tools run item modify entity @s weapon.mainhand detonate:enchantments/unbreaking/golden_tools
+
+    # Iron tools
+
+        execute if items entity @s weapon.mainhand #detonate:tools/iron_tools run item modify entity @s weapon.mainhand detonate:enchantments/unbreaking/iron_tools
 
     # Diamond tools
 

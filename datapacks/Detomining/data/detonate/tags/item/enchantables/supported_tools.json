@@ -1,0 +1,21 @@
+{
+    "values": [
+        
+        "wooden_pickaxe",
+        "stone_pickaxe",
+        "copper_pickaxe",
+        "golden_pickaxe",
+        "iron_pickaxe",
+        "diamond_pickaxe",
+        "netherite_pickaxe",
+        
+        "wooden_shovel",
+        "stone_shovel",
+        "copper_shovel",
+        "golden_shovel",
+        "iron_shovel",
+        "diamond_shovel",
+        "netherite_shovel"
+
+    ]
+}

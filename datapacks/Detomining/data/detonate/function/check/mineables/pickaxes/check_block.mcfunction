@@ -146,6 +146,34 @@
 
     function detonate:check/mineables/pickaxes/raw_copper_block
 
+# Terracotta
+
+    function detonate:check/mineables/pickaxes/terracotta
+
+# Red Terracotta
+
+    function detonate:check/mineables/pickaxes/red_terracotta
+
+# Orange Terracotta
+
+    function detonate:check/mineables/pickaxes/orange_terracotta
+
+# Yellow Terracotta
+
+    function detonate:check/mineables/pickaxes/yellow_terracotta
+
+# Brown Terracotta
+
+    function detonate:check/mineables/pickaxes/brown_terracotta
+
+# White Terracotta
+
+    function detonate:check/mineables/pickaxes/white_terracotta
+
+# Light Gray Terracotta
+
+    function detonate:check/mineables/pickaxes/light_gray_terracotta
+
 
 
 
